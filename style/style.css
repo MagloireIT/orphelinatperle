@@ -1,0 +1,128 @@
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+.logo img {
+    height: 125px;
+    padding-left: 90px;
+    padding-top: 25px;
+}
+
+.navbar {
+  display:flex;
+  margin-bottom: 30px;
+  overflow: hidden;
+}
+
+
+ul {
+    display: flex;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+}
+
+
+a:hover {
+    background-color: grey;
+    color: cornsilk;
+}
+
+
+li {
+    padding-left:50px;
+    padding-top: 50px;
+    margin-left: 50px;
+    list-style: none;
+  
+    
+}
+
+.elements {
+    padding-left: 16rem;
+    padding-right: 16rem;
+    overflow:hidden;
+}
+
+#banniere {
+    overflow: hidden;
+}
+
+#banniere h1 {
+    position: absolute;
+    margin-left: 26em;
+    margin-top: 3em;
+    background-color: cornsilk;
+}
+
+#banniere img {
+    width: 150rem;
+    height: 250px;
+    
+}
+
+#biographieGM {
+    display: flex;
+    padding: 55px;
+    padding-bottom: 11rem;
+}
+
+#biographieGM img {
+    height: 20rem;
+    margin-left: 125px;
+
+}
+
+#biographieGM p {
+    margin-left:10rem;
+    margin-right:10rem;
+    margin-top: 5rem;
+
+}
+
+#name {
+    position: absolute;
+    padding-top: 12rem;
+    padding-left: 75rem;
+}
+
+.projetaccueil {
+    background-color: #A4C3B2;
+}
+
+.projetaccueil h1 {
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+.imgprojet img {
+    
+    height: 20rem;
+    padding-left: 25px;
+}
+
+.texteprojet {
+    overflow: hidden;
+    padding-left: 0;
+    padding-right: 85px;
+   
+}
+
+
+.row {
+    overflow: hidden;
+    padding-left: 0;
+    margin-right: 0;
+}
